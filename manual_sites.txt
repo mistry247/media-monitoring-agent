@@ -1,0 +1,53 @@
+# Manual Processing Sites Configuration
+# 
+# This file contains domains that require manual content input due to:
+# - Paywalls or subscription requirements
+# - Anti-scraping measures
+# - JavaScript-heavy content that doesn't scrape well
+#
+# Format: One domain per line (without www. prefix)
+# Lines starting with # are comments and will be ignored
+# Empty lines are ignored
+#
+# Examples of common paywalled/subscription sites:
+
+# Major newspapers with paywalls
+nytimes.com
+wsj.com
+ft.com
+economist.com
+washingtonpost.com
+latimes.com
+bostonglobe.com
+seattletimes.com
+
+# UK newspapers with paywalls
+thetimes.co.uk
+telegraph.co.uk
+spectator.co.uk
+
+# Business/Financial publications
+bloomberg.com
+reuters.com
+marketwatch.com
+barrons.com
+
+# Magazine subscriptions
+theatlantic.com
+newyorker.com
+harpers.org
+nationalreview.com
+
+# Academic/Professional publications
+nature.com
+science.org
+nejm.org
+
+# Local/Regional publications (examples)
+sfgate.com
+chicagotribune.com
+dallasnews.com
+
+# Add your specific domains below:
+# example-paywall-site.com
+# another-subscription-site.org
